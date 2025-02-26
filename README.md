@@ -3,9 +3,8 @@
 
 - 👨‍💻 All of my projects & experiences are available at [https://b1ttersuess.github.io](https://b1ttersuess.github.io)
 
-- ⚡ Fun fact **focusing on computer networks, it-security, SAP S/4HANA & sometimes game dev**
+- ⚡ Fun fact **focusing on Computer Networks, IT-Security, SAP S/4HANA & sometimes GameDev**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
