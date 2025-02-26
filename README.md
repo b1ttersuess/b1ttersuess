@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects & experiences are available at [https://b1ttersuess.github.io](https://b1ttersuess.github.io)
 
-- ⚡ Fun fact: Currently **focusing on Computer Networks, IT-Security, SAP S/4HANA & sometimes GameDev**
+- ⚡ Currently **focusing on Computer Networks, IT-Security, SAP S/4HANA & sometimes GameDev**
 
 <p align="left">
 </p>
