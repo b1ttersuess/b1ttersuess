@@ -24,10 +24,16 @@
   </a> 
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
-  </a> 
+  </a>
+    <a href="https://godotengine.org" target="_blank" rel="noreferrer">
+    <img src="https://godotengine.org/assets/press/logo_large_color_dark.svg" alt="godot" width="40" height="40"/>
+  </a>
+  <a href="https://monogame.net/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" alt="monogame" width="40" height="40"/>
+  </a>
   <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> 
     <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -37,12 +43,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://godotengine.org" target="_blank" rel="noreferrer">
-    <img src="https://godotengine.org/assets/press/logo_large_color_dark.svg" alt="godot" width="40" height="40"/>
-  </a>
-  <a href="https://monogame.net/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" alt="monogame" width="40" height="40"/>
-  </a>
+
   
 </p>
 
