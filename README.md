@@ -1,5 +1,5 @@
 <h1 align="center">Hi there and welcome to my profile 👋, I'm Jonas</h1>
-<h3 align="center">Computer Science student @OvGU</h3>
+<h3 align="center">Computer Science student (B.Sc.) @OvGU </h3>
 
 - 👨‍💻 All of my projects & experiences are available at [https://b1ttersuess.github.io](https://b1ttersuess.github.io)
 
