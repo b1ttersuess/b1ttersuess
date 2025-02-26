@@ -7,7 +7,7 @@
 
 - 📄 CCNA 200-301 & ITIL 4 Foundation certified (@2022)
 
-- 🌱 Hands-On-Expirience with various technologies from Cisco, HP Enterprise (Aruba), Fortinet & more 
+- 🌱 Hands-on-experience with various technologies from Cisco, HP Enterprise (Aruba), Fortinet & more 
 
 <p align="left">
 </p>
