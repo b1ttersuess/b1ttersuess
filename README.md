@@ -1,9 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Jonas</h1>
+<h1 align="center">Hi there and welcome to my profile 👋, I'm Jonas</h1>
 <h3 align="center">Computer Science student @OvGU</h3>
 
 - 👨‍💻 All of my projects & experiences are available at [https://b1ttersuess.github.io](https://b1ttersuess.github.io)
 
 - ⚡ Currently **focusing on Computer Networks, SAP S/4HANA, IT-Security & sometimes GameDev**
+
+- 📄 CCNA 200-301 & ITIL 4 Foundation certified (@2022)
+
+- 🌱 Hands-On-Expirience with various technologies from Cisco, HP Enterprise (Aruba), Fortinet & more 
 
 <p align="left">
 </p>
