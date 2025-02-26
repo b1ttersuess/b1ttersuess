@@ -37,6 +37,17 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+
+    <!-- Godot Logo -->
+  <a href="https://godotengine.org" target="_blank" rel="noreferrer">
+    <img src="https://godotengine.org/assets/press/logo_large_color_dark.svg" alt="godot" width="40" height="40"/>
+  </a>
+
+  <!-- MonoGame Logo -->
+  <a href="https://monogame.net/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" alt="monogame" width="40" height="40"/>
+  </a>
+  
 </p>
 
 
