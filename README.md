@@ -44,16 +44,16 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg alt="confluence" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg alt="confluence" width="80" height="50"/>
   </a>
     <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="40" height="40"/>
   </a>
   <a href="https://www.hpe.com/de/de/networking.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Hewlett_Packard_Enterprise_logo.svg" alt="hpe" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Hewlett_Packard_Enterprise_logo.svg" alt="hpe" width="80" height="50"/>
   </a>
 <a href="https://www.axelos.com/certifications/itil-service-management" target="_blank" rel="noreferrer">
-    <img src="https://honicon.com/wp-content/uploads/2020/01/ITIL-Logo-4-Colour.png" alt="itil" width="40" height="40"/>
+    <img src="https://honicon.com/wp-content/uploads/2020/01/ITIL-Logo-4-Colour.png" alt="itil" width="80" height="50"/>
   </a>
 </p>
 
