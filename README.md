@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects & experiences are available at [https://b1ttersuess.github.io](https://b1ttersuess.github.io)
 
-- ⚡ Currently **focusing on Computer Networks, SAP S/4HANA, IT-Security & sometimes GameDev**
+- ⚡ Currently **focusing on SAP S/4HANA (Business Workflows, ABAP OO, APIs, Operational Data Provisioning and Fiori), Computer Networks, IT-Security & sometimes GameDev**
 
 - 📄 CCNA 200-301 & ITIL 4 Foundation certified (@2022)
 
